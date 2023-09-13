@@ -43,7 +43,7 @@ git clone https://github.com/YuriAz/spring-jwt-authentication.git
 2. The API will be accessible at http://localhost:8080
 
 ## Database
-The project utilizes [PostgresSQL](https://www.postgresql.org/) as the database. The necessary database migrations are managed using Flyway.
+The project utilizes [PostgresSQL](https://www.postgresql.org/) as the database.
 
 ## Contributing
 
